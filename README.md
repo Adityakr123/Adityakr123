@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is ADITYA
 #### I am BTECH CSE student at UPES Dehradun.
-![I am BTECH CSE student at UPES Dehradun.](https://ibb.co/pLzXrd5)
+![I am BTECH CSE student at UPES Dehradun.](adity.jpeg)
 
 I love to learn, innovate and explore new things.
 
