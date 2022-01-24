@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is ADITYA
+#### I am BTECH CSE student at UPES Dehradun.
+![I am BTECH CSE student at UPES Dehradun.](https://ibb.co/pLzXrd5)
 
-<!--
-**Adityakr123/Adityakr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to learn, innovate and explore new things.
 
-Here are some ideas to get you started:
+Skills:  C/ C++/ PYTHON/ JAVA/ PHP / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on WEB ...... 
+- 🌱 I’m currently learning DJANGO 
+- 💬 Ask me about Development 
+- 📫 How to reach me: email  adityakr365@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adityakr123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aditya-kumar-220053208/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aditya.works/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityakr123&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Adityakr123)  
+
+![Profile views](https://gpvc.arturio.dev/Adityakr123)  
