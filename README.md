@@ -18,6 +18,6 @@ Skills:  C/ C++/ PYTHON/ JAVA/ PHP / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Adityakr123)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakr123&theme=vue)](https://github.com/Adityakr123/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Adityakr123)  
