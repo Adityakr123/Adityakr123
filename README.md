@@ -4,7 +4,7 @@
 
 I love to learn, innovate and explore new things.
 
-Skills:  C/ C++/ PYTHON/ JAVA/ PHP / JS / HTML / CSS
+Skills:  C/ C++/ PYTHON/ JAVA/ PHP / JS / HTML / CSS / Angular/ Node/ Sql/ Javascript/ MongoDb/ RestFullApi
 
 - 🔭 I’m currently working on WEB ...... 
 - 🌱 I’m currently learning DJANGO 
